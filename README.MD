@@ -1,4 +1,4 @@
- Meu Blog
+# Meu Blog
 
 Este é um projeto de blog desenvolvido em HTML, CSS e PHP para fins de prática e aprimoramento dos conhecimentos nessas linguagens. O blog possui funcionalidades básicas, como exibição de posts, categorias e tags, permitindo ao usuário ler e navegar pelos conteúdos disponíveis.
 
